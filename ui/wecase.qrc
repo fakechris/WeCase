@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="IMG">
+    <file>img/wc_1024r.png</file>
+    <file>img/WeCase.svg</file>
+    <file>img/WeCase 16.png</file>
+    <file>img/WeCase 80.png</file>
+    <file>img/WeCase 256.png</file>
+    <file>img/WeCase 854.png</file>
+    <file>img/LOGO_16x16.png</file>
+    <file>img/LOGO_24x24.png</file>
+    <file>img/LOGO_32x32.png</file>
+    <file>img/LOGO_48x48.png</file>
+    <file>img/LOGO_64x64.png</file>
+    <file>img/where_s_my_weibo.svg</file>
+    <file>img/application-exit.svg</file>
+    <file>img/preferences-other.png</file>
+  </qresource>
+  <qresource prefix="LICENSE" lang="English">
+    <file>LICENSE</file>
+  </qresource>
+</RCC>
