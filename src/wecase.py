@@ -18,7 +18,10 @@ import os
 import urllib
 import httplib
 import shelve
-import pynotify
+try:
+    import pynotify
+except:
+    import notify2 as pynotify
 import thread
 from weibo import APIClient, APIError
 from PyQt4 import QtCore, QtGui
